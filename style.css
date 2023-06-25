@@ -1,8 +1,16 @@
-.main{
-    display: flex;
+* {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  /* background-color: black; */
 }
 
-#main-image{
-    width: auto;
-    height: 100vh;
+.main {
+  display: flex;
+  /* background-color: white; */
+}
+
+#main-image {
+  width: auto;
+  height: 80vh;
 }
