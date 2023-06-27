@@ -114,10 +114,6 @@ input:valid {
   border: 0.3px solid green;
 }
 
-/* input:invalid {
-  border: 1px solid red;
-} */
-
 button {
   border-radius: 3px;
   background-color: #596d48;
