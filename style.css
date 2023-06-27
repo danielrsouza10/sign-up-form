@@ -47,7 +47,6 @@
 
 .description {
   padding: 0px 150px 0 50px;
-  
 }
 
 .description,
@@ -111,7 +110,7 @@ input:active {
   border: 0.3px solid blue;
 }
 
-input:valid{
+input:valid {
   border: 0.3px solid green;
 }
 
@@ -119,9 +118,9 @@ input:valid{
   border: 1px solid red;
 } */
 
-button{
+button {
   border-radius: 3px;
-  background-color: #596d48;;
+  background-color: #596d48;
   color: white;
   font-weight: bold;
   height: 35px;
@@ -129,7 +128,7 @@ button{
   cursor: pointer;
 }
 
-button:disabled{
+button:disabled {
   border-radius: 3px;
   background-color: gray;
   color: white;
@@ -149,24 +148,24 @@ button:hover {
   padding: 10px 0 20px 50px;
 }
 
-.log-in > a{
+.log-in > a {
   text-decoration: none;
-  font-weight: bold; 
-  color: #596d48; 
+  font-weight: bold;
+  color: #596d48;
 }
 
 @media screen and (width < 910px) {
   .image {
     display: none;
   }
-  .main{
+  .main {
     margin: 10px auto;
   }
-  .content{
+  .content {
     height: 100vh;
     max-width: 100vw;
   }
-  description{
+  description {
     padding-top: 30px;
   }
 }
